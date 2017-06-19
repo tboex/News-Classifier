@@ -1,7 +1,6 @@
 # News-Classifier
 ## Dependencies 
  **Required python Libraries**
- 
 ### Machine Learning
    - numpy `pip install numpy`
    - scikit-learn `pip install sklearn`
@@ -16,7 +15,11 @@
 ## How-to-Run
 
 ### Starting the Importer
-   Run with Python 2.7 (_Not tested on Python 3.x_)
+   _Run with Python 2.7 (_Not tested on Python 3.x_)_
+   
+   `python firstSetup/first.py` 
+   
+   **Be aware "first.py" will reset any currently trained model you have**
    
    `python main.py`
    
